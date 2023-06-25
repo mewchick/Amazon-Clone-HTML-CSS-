@@ -47,10 +47,9 @@
 
 /* box 3:---------------------------------------------------> */
 .nav-search{
+    flex-grow:0.85;
     display:flex;
     justify-content: space-evenly;
-    /* width: 620px; */
-    width: 60%;
     height: 40px;
     background-color: pink;
     border-radius: 3px;
